@@ -1,0 +1,26 @@
+body {
+    background: rgb(47, 150, 163);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+}
+
+h2 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+#contenido {
+    margin-top: 40px;
+}
+
+.borrar-pelicula,
+.borrar-pelicula:hover {
+    float: right;
+    cursor: pointer;
+    color: blue;
+    font-weight: bold;
+}
